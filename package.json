@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "IoC in typescript",
   "main": "bundle/index.js",
-  "repository": {},
+  "repository": "ThatsMrTalbot/ioc",
   "author": "Adam Talbot",
   "license": "MIT",
   "devDependencies": {

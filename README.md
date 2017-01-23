@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ThatsMrTalbot/ioc.svg?branch=master)](https://travis-ci.org/ThatsMrTalbot/ioc)
+
 # Typescript IoC
 _Simple ioc for node & typescript_
 
