@@ -1,9 +1,9 @@
 {
   "name": "@thatsmrtalbot/ioc",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "IoC in typescript",
   "main": "./lib/index.js",
-  "types": "./lib/main.d.ts",
+  "types": "./lib/index.d.ts",
   "repository": "ThatsMrTalbot/ioc",
   "author": "Adam Talbot",
   "license": "MIT",
